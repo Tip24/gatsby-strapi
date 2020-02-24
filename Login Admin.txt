@@ -1,0 +1,2 @@
+Login:     strapi
+Password:  @Test@2020

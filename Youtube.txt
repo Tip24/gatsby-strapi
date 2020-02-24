@@ -1,0 +1,8 @@
+
+
+6/16
+
+Gatsby+Strapi
+https://www.youtube.com/watch?v=SnrEEW1uTlU&list=PL7Q0DQYATmvgGiz0MbbsMA_aB1V0yLE7a&index=6
+
+https://strapi.io/blog/building-a-static-website-using-gatsby-and-strapi

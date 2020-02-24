@@ -1,0 +1,2 @@
+# gatsby-strapi
+gatsby-strapi
